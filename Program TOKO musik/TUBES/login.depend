@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585745707 source:c:\users\asus\onedrive - telkom university\documents\code block\login\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585749337 source:c:\users\lenovo\downloads\login\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

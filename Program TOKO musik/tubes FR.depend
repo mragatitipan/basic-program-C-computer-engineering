@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586616230 source:d:\materi matakuliah\semester 2\praktikum alpro\tubes fr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586608359 source:d:\materi matakuliah\semester 2\praktikum alpro\tubes fr\fajar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

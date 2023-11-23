@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587365470 source:d:\materi matakuliah\semester 2\algoritma dan pemprograman b\tugas daring 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

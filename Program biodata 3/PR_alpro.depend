@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579230665 source:c:\users\suharno\documents\pr_alpro\main.c
+	<stdio.h>
+	<stdlib.h>
+

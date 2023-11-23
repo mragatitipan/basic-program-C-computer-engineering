@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635818254 source:d:\raga\all - program\bahasa c\test 1\floating point\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580117755 source:c:\users\suharno\documents\tugas_alprobesok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580118214 source:d:\tugas\semester 2\algoritma dan pemprograman b\pr_alpro\tugas_alprobesok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
